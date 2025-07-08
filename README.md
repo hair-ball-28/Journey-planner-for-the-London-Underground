@@ -1,4 +1,4 @@
-# London Underground Journey Planner 🚇
+# Journey planner for the London Underground
 
 ## Overview
 This project is part of the **COMP1828 Advanced Algorithms and Data Structures** coursework at the **University of Greenwich**. It focuses on developing an efficient **journey planner** for the **London Underground** network using advanced **graph algorithms**.
